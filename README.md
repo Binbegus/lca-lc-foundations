@@ -8,13 +8,7 @@ Welcome to LangChain Academy’s Introduction to LangChain course!
 
 ## 🚀 Setup 
 
-### Quick Start Verification
 
-After completing the Setup section, you can run this command to verify your environment:
-
-```bash
-uv run python3 env_utils.py
-```
 
 ### Prerequisites
 
@@ -61,6 +55,14 @@ Make a virtual environment and install dependencies
 ```bash
 # Create virtual environment and install dependencies
 uv sync
+```
+
+### Quick Start Verification
+
+After completing the Setup section, you can run this command to verify your environment:
+
+```bash
+uv run python3 env_utils.py
 ```
 
 ## 💡 Development Environment
